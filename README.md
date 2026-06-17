@@ -4,7 +4,7 @@
 The solver considers Dirichlet piece-wise linear boundary conditions on the start/top of the domain and either Dirichlet, Neumann or Robin constant boundary conditions at the bottom end of the domain.
 This solution was derived for predicting **shallow subsurface thermal field evolution under climate change** and was subsequently applied for predicting groundwater temperatures in Berlin, Germany (sample data provided).
 
-The study is described in detail in [study report](study_report)
+The full study is available at [https://doi.org/10.5281/zenodo.20730014](https://doi.org/10.5281/zenodo.20730014)
 
 ## Environment setup
 
